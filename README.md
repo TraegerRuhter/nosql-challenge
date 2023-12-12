@@ -26,11 +26,5 @@ This repository contains the work of a comprehensive analysis of food hygiene ra
    - Maintained a well-documented Jupyter Notebook with clear, concise comments, making the analysis easily understandable and reproducible.
    - Ensured robustness in code with thorough testing and validation steps.
 
-## Repository Structure
-- `NoSQL_setup_starter.ipynb`: Jupyter Notebook for database setup and initial data import.
-- `NoSQL_analysis_starter.ipynb`: Jupyter Notebook containing the exploratory data analysis and query implementations.
-- `Resources/`: Directory containing the `establishments.json` data file.
-- `README.md`: This file, providing an overview of the project and its contents.
-
 ## Key Takeaways
 This project exemplified the power of MongoDB in handling and analyzing large datasets. It showcased the ability to glean critical insights from data that can guide real-world decisions in the food and hospitality industry. The skills demonstrated here are crucial for data-driven decision-making and strategic planning in various sectors.
